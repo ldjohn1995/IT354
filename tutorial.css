@@ -1,9 +1,45 @@
 *{
 padding: 0px;
 margin:0px;
+line-height: 1.6;
+font-family: "Times New Roman", Times, serif;
+
+
 }
 body{
   color:black;
   font style: italic;
-background-color:grey;
+
+}
+
+.navbar{
+position: static;
+
+}
+/*
+.side-nav{
+  position: absolute;
+  float: left;
+  width:20%;
+  height: 100%;
+  background-color: red;
+  z-index: -1;
+}
+*/
+.col-2{
+  padding: 40px;
+  line:height: 5.6;
+}
+
+ul{
+text-decoration: none;
+list-style: none;
+
+
+}
+.ecmascript{
+  background-color: #FFFAFA;
+}
+.unary{
+  background-color: #FFFAFA;
 }
